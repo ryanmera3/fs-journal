@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var, let, const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A piece of code that will run when the functions name is called
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+[2] because javascript starts at index 0 and pineapple is 2 after the first
 ```
 **5.** With these two objects: 
 ```js
@@ -38,7 +38,8 @@ how would you .push the `them` object into the `you` object's array of friends?
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if(conditional.length > 5)
+  console.log(conditional)
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -47,7 +48,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Incrementer, i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
