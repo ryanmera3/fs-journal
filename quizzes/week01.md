@@ -68,5 +68,5 @@ Sets how a flex item will grow or shrink to fit space
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+box-sizing, width, height
 ```
