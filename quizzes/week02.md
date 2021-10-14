@@ -13,7 +13,11 @@ A piece of code that will run when the functions name is called
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+single responsibility principle
+open closed principle
+liskov substitution principle
+intercace segregation principle
+dependency inversion principle
 ```
 **4.** Given this array: 
 ```js
@@ -32,7 +36,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+let you.friends = them
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -53,13 +57,13 @@ Incrementer, i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+null, undefined, boolean, number, string, object
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -69,5 +73,7 @@ Parameters are part of the function definition, arguments are values passed to t
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
+Primitive - You can manipulate the stored value
+Reference - You manipulate the reference of an object instead of the actual value
 
 ```
